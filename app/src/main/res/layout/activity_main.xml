@@ -13,4 +13,10 @@
         android:layout_centerInParent="true"
         />
 
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:hint="Type something..."/>
+
 </RelativeLayout>
